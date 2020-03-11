@@ -1,7 +1,7 @@
 {
-  "name": "Mongoose-Scrape",
+  "name": "allthenewsthatisfittocrape",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Overview",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leopard-2019/Mongoose-Scrape.git"
+    "url": "git+https://github.com/ManuelCoronR/AlltheNewsThatisFittoScrape.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Manuel Corona",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Leopard-2019/Mongoose-Scrape/issues"
+    "url": "https://github.com/ManuelCoronR/AlltheNewsThatisFittoScrape/issues"
   },
-  "homepage": "https://github.com/Leopard-2019/Mongoose-Scrape#readme",
+  "homepage": "https://github.com/ManuelCoronR/AlltheNewsThatisFittoScrape#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
@@ -31,7 +31,7 @@
     "path": "^0.12.7"
   },
   "devDependencies": {
-    "handlebars": "^4.5.0",
+    "handlebars": "^4.7.3",
     "nodemon": "^2.0.2"
   }
 }
